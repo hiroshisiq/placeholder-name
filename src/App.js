@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Am I living or just wating for the dinner? - Jack 2021.
+          Sera que estou vivendo ou apenas esperando a janta? - Jack (2021).
         </p>
       </header>
     </div>
